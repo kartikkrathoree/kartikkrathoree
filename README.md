@@ -30,7 +30,6 @@ Building scalable, secure and production-ready backend systems.
 - 📚 Always learning and improving my development skills
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
@@ -38,15 +37,33 @@ Building scalable, secure and production-ready backend systems.
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
 
-### 🗄️ Database & Caching
+Spring Boot • Spring Security • Spring Data JPA • REST APIs • Microservices • JWT
+
+### 🗄️ Databases & Caching
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 </p>
 
-### ☁️ DevOps & Tools
+### 📨 Messaging
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kafka,git,github,gradle" />
+<img src="https://skillicons.dev/icons?i=kafka" />
 </p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github" />
+</p>
+
+### 🔧 Tools & Build
+<p>
+<img src="https://skillicons.dev/icons?i=maven,postman,idea" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
 
 ---
 
