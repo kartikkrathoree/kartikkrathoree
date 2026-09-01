@@ -21,12 +21,11 @@ Building scalable, secure and production-ready backend systems.
 
 ## 🚀 About Me
 
-- 💼 Software Engineer Intern
 - ☕ Java Backend Developer
 - 🌱 Currently working with Spring Boot & Microservices
 - 🔐 Interested in building scalable & secure backend systems
 - 🧩 Building REST APIs and backend applications
-- 🐳 Exploring Docker, Kafka & Cloud technologies
+- 🐳 Exploring Docker & Cloud technologies
 - 📚 Always learning and improving my development skills
 
 ---
@@ -94,7 +93,7 @@ Spring Boot • Spring Security • Spring Data JPA • REST APIs • Microservi
 ### 🛒 Multi-Vendor E-Commerce Platform
 A backend system built using Java and Spring Boot with authentication, authorization, product management, vendor management and order-related functionality.
 
-Tech: Java • Spring Boot • Spring Security • JPA • MySQL
+Tech: Java • Spring Boot • Spring Security • JPA • PostgreSQL
 
 ---
 
